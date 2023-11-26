@@ -10,8 +10,11 @@
   </div>
 </div>
 
-<h3>Dont't know what to eat?</h3>
-<h2>Campus Cuisine Compass could help u!</h2>
+<div class="container-fluid p-5 bg-primary text-white text-center">
+ <h3>Dont't know what to eat?</h3>
+ <h2>Campus Cuisine Compass could help u!</h2>
+</div>
+  
 
 <div class="container mt-3">
 <button type="button" class="btn btn-log in">Log in</button>
