@@ -1,29 +1,19 @@
 # Campus-Cuisine-Compass
+## This is the project developed by Kindergarden Team to help UTM students explore foods and drinks.
+### Steps to install and run the app on Android Studio
+1.  Please install **Flutter** (https://flutter.dev/docs/get-started/install)
+2.  Set up the editor, **Android Studio** (https://flutter.dev/docs/get-started/editor)
+3.  *Download the whole zip file of the code*
+4.  Then unzipped the code to the **file location** you want
+5.  Open Android Studio (if you have installed Flutter)
+6.  Connect an *Android device (or Android Emulator)*
 
-<h1>Morning</h1>
-<h1>Welcome to Campus Cuisine Compass</h1>
+![Alt Text](https://lh6.googleusercontent.com/CGDqA9mQOo8XfSrOwx-DaYC41w843WLDXbS_jN9Fp96JNU1NeukNUCZ5qm3tZNnvn8J08bv0gzpP3p0gAIP4c2tZUCa8U2S5Ef_hpkbIwUjgn4uksrg7iQcZZH0atsu1AkExcjSZ)
 
-<div class="container mt-3">
-  <div class="progress">
-    <div class="progress-bar" style="width:70%"</div>
-       <h4>Loading...</h4>
-  </div>
-</div>
+7. Run **"flutter pub get"** in command prompt (inside the project folder directory) to get all the required dependecies. (Android Studio will automatically display a prompt message top ask you to get all the required dependecies)
 
-<div class="container-fluid p-5 bg-primary text-white text-center">
- <h3>Dont't know what to eat?</h3>
- <h2>Campus Cuisine Compass could help u!</h2>
-</div>
-  
+7. Run the  code by hitting the **green run button** in Android Studio (The performance is better in Android Phone than in Android Emulator)
 
-<div class="container mt-3">
-<button type="button" class="btn btn-log in">Log in</button>
-</div>
-<div class="container mt-3">
-<button type="button" class="btn btn-log in">Sign up</button>
-</div>
-<div class="container mt-3">
-<button type="button" class="btn btn-link">View as visitor</button> 
-</div>
+![Alt Text](https://i.stack.imgur.com/CSKBM.png)
 
 
