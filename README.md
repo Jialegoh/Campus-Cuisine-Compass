@@ -1,5 +1,5 @@
 # Campus-Cuisine-Compass
-## This is the project developed by Kindergarden Team to help UTM students explore foods and drinks.
+## This is the project developed by Kindergarden Team to help UTM students explore campus foods and drinks.
 ### Steps to install and run the app on Android Studio
 1.  Please install **Flutter** (https://flutter.dev/docs/get-started/install)
 2.  Set up the editor, **Android Studio** (https://flutter.dev/docs/get-started/editor)
